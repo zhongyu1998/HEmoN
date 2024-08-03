@@ -1,0 +1,8 @@
+matplotlib==3.5.0
+networkx==2.4
+nilearn==0.7.0
+numpy==1.16.0
+pandas==1.0.3
+pydot==1.4.2
+scipy==1.4.1
+tqdm==4.60.0
