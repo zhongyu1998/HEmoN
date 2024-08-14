@@ -1,0 +1,10 @@
+h5py==3.1.0
+matplotlib==3.3.4
+networkx==2.4
+nilearn==0.7.0
+numpy==1.16.0
+pandas==1.0.3
+pydot==1.4.2
+scipy==1.4.1
+tqdm==4.60.0
+xlrd==1.2.0
